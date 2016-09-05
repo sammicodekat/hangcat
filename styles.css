@@ -1,0 +1,29 @@
+img.center {
+    display: block;
+    margin: 0 auto;
+    width : 300px;
+}
+.buttons  {
+  padding-top:60px;
+}
+#image0{
+    content: url('http://i.imgur.com/gMB8OyH.png');
+}
+#image1 {
+    content: url('http://i.imgur.com/593TGUR.png');
+}
+#image2 {
+    content: url('http://i.imgur.com/qNv0c1Y.png');
+}
+#image3 {
+    content: url('http://i.imgur.com/pPBKXXT.png');
+}
+#image4 {
+    content: url('http://i.imgur.com/KhMGTjM.png');
+}
+#image5 {
+     content: url('http://i.imgur.com/W2suML0.png');
+}
+#image6 {
+    content: url('http://i.imgur.com/Xfegf6f.png');
+}
